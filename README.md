@@ -15,6 +15,7 @@ This is an open source framwork that can test the resilience of the organization
  A modern hosting platform that makes it easy to deploy apps quickly. Railway offers database
  services for PostgreSQL, MySQL, MongoDB, and Redis. It can automatically determine the application runtime and depoly that service.
 
+![Railway](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/Railway%20New%20Project.png)
 
  ## Steps
 
@@ -25,6 +26,11 @@ This is an open source framwork that can test the resilience of the organization
 
  Now you can login with the credentials given and change your password to see the Dashboard.
 
+ ![Login](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/Login%20screen.png)
+
+After Login, it should look like this:
+
+![dashboard](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/New-campaign.png)
 
  ## Seting up the templates for an Attack
 
@@ -39,3 +45,4 @@ once finishing all those parts you can create a "New Campaign" and "Launch campa
 the DashBoard should look like this:
 
 
+![campaign](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/DashBoard%20Results.png)
