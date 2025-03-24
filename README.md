@@ -28,9 +28,6 @@ This is an open source framwork that can test the resilience of the organization
 
  ![Login](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/Login%20screen.png)
 
-After Login, it should look like this:
-
-![dashboard](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/New-campaign.png)
 
  ## Seting up the templates for an Attack
 
@@ -42,7 +39,8 @@ After Login, it should look like this:
 -Landing pages returned to users when they click the phishing links
 
 once finishing all those parts you can create a "New Campaign" and "Launch campaign afterwords"
-the DashBoard should look like this:
+![dashboard](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/New-campaign.png)
 
+the DashBoard should look like this:
 
 ![campaign](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/DashBoard%20Results.png)
