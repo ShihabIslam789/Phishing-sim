@@ -33,12 +33,12 @@ This is an open source framwork that can test the resilience of the organization
 
  Now you can edit the following four sections:
 
--Users & groups to send the simulated phishing emails
--Phishing email templates, including attachments
--Sending profiles to specify sending SMTP relay details
-Note: (There is a section that will ask for a password and that is the App Password of your email that you will be sending from, go into the settings of the email being used to find it)
-      (In the Host Section you should know the SNtP protocol and use port 589, if your confused you can google it to find it)
--Landing pages returned to users when they click the phishing links
+-Users & groups to send the simulated phishing emails <br>
+-Phishing email templates, including attachments <br>
+-Sending profiles to specify sending SMTP relay details <br>
+Note: (There is a section that will ask for a password and that is the App Password of your email that you will be sending from, go into the settings of the email being used to find it) <br>
+      (In the Host Section you should know the SNtP protocol and use port 589, if your confused you can google it to find it) <br>
+-Landing pages returned to users when they click the phishing links <br>
 
 once finishing all those parts you can create a "New Campaign" and "Launch campaign afterwords"
 ![dashboard](https://github.com/ShihabIslam789/Phishing-sim/blob/main/Pictures/New-campaign.png)
