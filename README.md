@@ -19,5 +19,23 @@ This is an open source framwork that can test the resilience of the organization
  ## Steps
 
  Make a railway account and signup easily with Github. Agree to the terms of Service and launch
- "one-click starter template" to deploy
- dwdwdw
+ "one-click starter template" to deploy. Once finshed click the URL to go to the railway.app domain.
+
+ Under "Deployments" click "views logs" and find your login information- "Please login with the username admin and the password..."
+
+ Now you can login with the credentials given and change your password to see the Dashboard.
+
+
+ ## Seting up the templates for an Attack
+
+ Now you can edit the following four sections:
+
+-Users & groups to send the simulated phishing emails
+-Phishing email templates, including attachments
+-Sending profiles to specify sending SMTP relay details
+-Landing pages returned to users when they click the phishing links
+
+once finishing all those parts you can create a "New Campaign" and "Launch campaign afterwords"
+the DashBoard should look like this:
+
+
